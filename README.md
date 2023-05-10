@@ -6,13 +6,12 @@ This sample is developed to demonstrate the basic usage of the Asgardeo Auth Rea
 
 ### Register an Application
 
-Follow the instructions in the [Try Out the Sample Apps](../../README.md#try-out-the-sample-apps) section to register an application.
+We will do it together during the training
 
-Make sure to add `https://localhost:3000` as a Redirect URL and also add it under allowed origins. 
 
 ### Download the Sample
 
-Download the sample from [here](https://github.com/asgardeo/asgardeo-auth-react-sdk/releases/latest/download/asgardeo-react-app.zip) and extract the zip file.
+Download the sample from [here](https://github.com/marcio-wso2/asgardeo-react-app) and extract the zip file.
 
 ### Configure the Sample
 

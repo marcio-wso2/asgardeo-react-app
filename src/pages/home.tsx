@@ -20,7 +20,7 @@ import { Hooks, useAuthContext } from "@asgardeo/auth-react";
 import React, { FunctionComponent, ReactElement, useEffect, useState } from "react";
 import { default as authConfig } from "../config.json";
 import REACT_LOGO from "../images/react-logo.png";
-import PIZZA_LOGO from "../images/pizza-logo.png";
+import PIZZA_LOGO from "../images/react-logo.png";
 import { DefaultLayout } from "../layouts/default";
 import { AuthenticationResponse } from "../components";
 import { useLocation } from "react-router-dom";
